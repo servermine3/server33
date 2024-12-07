@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"You have registered!","color":"green","bold":false}]

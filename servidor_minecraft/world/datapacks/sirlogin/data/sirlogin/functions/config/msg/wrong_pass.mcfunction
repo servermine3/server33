@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Wrong password!","color":"red","bold":false}]

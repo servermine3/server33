@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "blackstone_chair_modern": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:polished_blackstone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:blackstone_chair_modern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "blackstone_chair_modern"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:blackstone_chair_modern"
+    ]
+  },
+  "sends_telemetry_event": false
+}

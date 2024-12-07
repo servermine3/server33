@@ -1,0 +1,2 @@
+execute if score @s sl-wrong >= wrong_kick sl-config run function sirlogin:config/kick
+execute if score @s login matches 1.. unless score @s login = @s sl-db-pass unless score @s sl-wrong = wrong_kick sl-config run scoreboard players add @s sl-wrong 1

@@ -1,0 +1,301 @@
+[20:33:44] [main/INFO]: Loading Minecraft 1.20.2 with Fabric Loader 0.16.3
+[20:33:44] [ForkJoinPool-1-worker-2/WARN]: The mod "pfm" contains invalid entries in its mod json:
+- Unsupported root entry "modmenu" at line 57 column 12
+[20:33:44] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:33:44] [main/INFO]: Loading 119 mods:
+	- appleskin 2.5.1+mc1.20.2
+	- balm-fabric 8.0.5
+	- cloth-config 12.0.119
+	   \-- cloth-basic-math 0.6.1
+	- clumps 13.0.0.6
+	- collective 7.30
+	- copperhopper 0.6.0+1.20.2
+	- creativecore 2.11.2
+	   \-- net_minecraftforge_eventbus 6.0.3
+	- durabilitytooltip 1.1.5
+	- entityculling 1.7.1
+	- fabric-api 0.91.5+1.20.2
+	   |-- fabric-api-base 0.4.33+fce67b32a0
+	   |-- fabric-api-lookup-api-v1 1.6.42+b1792f7da0
+	   |-- fabric-biome-api-v1 13.0.14+b1792f7da0
+	   |-- fabric-block-api-v1 1.0.12+73761d2ea0
+	   |-- fabric-block-view-api-v2 1.0.1+73761d2ea0
+	   |-- fabric-blockrenderlayer-v1 1.1.43+f4b7e424a0
+	   |-- fabric-client-tags-api-v1 1.1.4+86b12645a0
+	   |-- fabric-command-api-v1 1.2.37+f71b366fa0
+	   |-- fabric-command-api-v2 2.2.16+b1792f7da0
+	   |-- fabric-commands-v0 0.2.54+df3654b3a0
+	   |-- fabric-containers-v0 0.1.81+df3654b3a0
+	   |-- fabric-content-registries-v0 5.0.5+b1792f7da0
+	   |-- fabric-convention-tags-v1 1.5.8+b1792f7da0
+	   |-- fabric-crash-report-info-v1 0.2.20+f4b7e424a0
+	   |-- fabric-data-generation-api-v1 13.1.11+b1792f7da0
+	   |-- fabric-dimensions-v1 2.1.57+b1792f7da0
+	   |-- fabric-entity-events-v1 1.5.26+b1792f7da0
+	   |-- fabric-events-interaction-v0 0.6.10+b1792f7da0
+	   |-- fabric-events-lifecycle-v0 0.2.69+df3654b3a0
+	   |-- fabric-game-rule-api-v1 1.0.42+a44e16a6a0
+	   |-- fabric-item-api-v1 2.1.33+b1792f7da0
+	   |-- fabric-item-group-api-v1 4.0.15+e3d2bf3fa0
+	   |-- fabric-key-binding-api-v1 1.0.38+f4b7e424a0
+	   |-- fabric-keybindings-v0 0.2.36+df3654b3a0
+	   |-- fabric-lifecycle-events-v1 2.2.27+b1792f7da0
+	   |-- fabric-loot-api-v2 2.1.1+3ba460fba0
+	   |-- fabric-message-api-v1 6.0.2+e3d2bf3fa0
+	   |-- fabric-mining-level-api-v1 2.1.55+f4b7e424a0
+	   |-- fabric-model-loading-api-v1 1.0.6+b1792f7da0
+	   |-- fabric-models-v0 0.4.5+9386d8a7a0
+	   |-- fabric-networking-api-v1 3.1.5+f4be560ba0
+	   |-- fabric-object-builder-api-v1 12.1.2+2ff98d3ba0
+	   |-- fabric-particles-v1 1.1.4+f4b7e424a0
+	   |-- fabric-recipe-api-v1 2.0.14+52b3ebe5a0
+	   |-- fabric-registry-sync-v0 4.0.12+b1792f7da0
+	   |-- fabric-renderer-api-v1 3.2.1+2034447ca0
+	   |-- fabric-renderer-indigo 1.5.1+2034447ca0
+	   |-- fabric-renderer-registries-v1 3.2.49+df3654b3a0
+	   |-- fabric-rendering-data-attachment-v1 0.3.39+73761d2ea0
+	   |-- fabric-rendering-fluids-v1 3.0.30+f4b7e424a0
+	   |-- fabric-rendering-v0 1.1.52+df3654b3a0
+	   |-- fabric-rendering-v1 3.0.11+b1792f7da0
+	   |-- fabric-resource-conditions-api-v1 2.3.11+239dafd8a0
+	   |-- fabric-resource-loader-v0 0.11.12+b1792f7da0
+	   |-- fabric-screen-api-v1 2.0.12+b1792f7da0
+	   |-- fabric-screen-handler-api-v1 1.3.47+b1792f7da0
+	   |-- fabric-sound-api-v1 1.0.14+f4b7e424a0
+	   |-- fabric-transfer-api-v1 3.3.12+4944b5a5a0
+	   \-- fabric-transitive-access-wideners-v1 5.0.3+fce67b32a0
+	- fabric-language-kotlin 1.12.0+kotlin.2.0.10
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.0.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.10
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.25.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.5.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.5.1
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.1
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.1
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- faster_entity_animations 1.6
+	- ferritecore 6.0.1
+	- forgeconfigapiport 20.2.6
+	   |-- com_electronwill_night-config_core 3.6.6
+	   \-- com_electronwill_night-config_toml 3.6.6
+	- fusion 1.1.0+c
+	- iceberg 1.1.18
+	- igneous-machines 1.3.1+1.20.2
+	- inventorio 1.10.3
+	   \-- conditional-mixin 0.6.2
+	- jade 12.3.0
+	- java 21
+	- jei 16.0.0.2
+	- krypton 0.2.6
+	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
+	- lazydfu 0.1.3
+	- lithium 0.12.0
+	- mcwfurnitures 3.2.2
+	- minecraft 1.20.2
+	- modernfix 5.10.1+mc1.20.2
+	- mr_dungeons_andtaverns 3.0.3.f
+	- overenchanted 1.3.0
+	- pfm 1.2.0
+	- ping-wheel 1.7.0
+	- rechiseled 1.1.5+b
+	- reinfchest 2.4.3+1.20
+	   \-- reinfcore 3.1.3+1.20
+	- reinfshulker 2.5.1+1.20
+	   \-- reinfcore 3.1.3+1.20
+	- retraining 1.4.1
+	- spark 1.10.54
+	- starlight 1.1.3+fabric.5867eae
+	- supermartijn642configlib 1.1.8+a
+	- supermartijn642corelib 1.1.17
+	- trashslot 16.0.0
+	- universal-graves 3.1.1+1.20.2
+	   |-- common-protection-api 1.0.0
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   |-- placeholder-api 2.2.0+1.20.2
+	   |-- polymer-core 0.6.0+1.20.2
+	   |    |-- polymer-networking 0.6.0+1.20.2
+	   |    |    \-- polymer-common 0.6.0+1.20.2
+	   |    |         \-- packet_tweaker 0.5.0+1.20.2-rc1
+	   |    \-- polymer-registry-sync-manipulator 0.6.0+1.20.2
+	   |-- polymer-resource-pack 0.6.0+1.20.2
+	   |    \-- polymer-common 0.6.0+1.20.2
+	   |         \-- packet_tweaker 0.5.0+1.20.2-rc1
+	   |-- polymer-virtual-entity 0.6.0+1.20.2
+	   |    \-- polymer-common 0.6.0+1.20.2
+	   |         \-- packet_tweaker 0.5.0+1.20.2-rc1
+	   |-- predicate-api 0.3.0+1.20.2
+	   |-- server_translations_api 2.1.0+1.20.2-rc2
+	   |    \-- packet_tweaker 0.5.0+1.20.2-rc1
+	   \-- sgui 1.3.0+1.20.2
+	- usefulbackpacks 2.0.1.123
+	- uteamcore 5.2.0.270
+	- vanillafix 1.1.10-beta
+	- voicechat 1.20.2-2.5.12
+	   \-- fabric-key-binding-api-v1 1.0.37+f4b7e424a0
+	- waystones 15.2.0
+	- xaerominimap 23.9.7
+	- xaeroworldmap 1.37.8
+[20:33:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server33/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:33:44] [main/INFO]: Compatibility level set to JAVA_17
+[20:33:44] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:33:44] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:33:44] [main/INFO]: Loaded configuration file for Lithium: 125 options available, 1 override(s) found
+[20:33:45] [main/INFO]: Loaded configuration file for ModernFix 5.10.1+mc1.20.2: 52 options available, 0 override(s) found
+[20:33:45] [main/INFO]: Applying Nashorn fix
+[20:33:45] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:33:45] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:33:45] [main/WARN]: Error loading class: net/minecraft/class_293 (java.lang.ClassNotFoundException: net/minecraft/class_293)
+[20:33:45] [main/WARN]: @Mixin target net.minecraft.class_293 was not found creativecore.fabric.mixins.json:VertexFormatMixin from mod creativecore
+[20:33:45] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[20:33:45] [main/WARN]: Error loading class: net/minecraft/class_8673 (java.lang.ClassNotFoundException: net/minecraft/class_8673)
+[20:33:45] [main/WARN]: @Mixin target net.minecraft.class_8673 was not found modernfix-fabric.mixins.json:core.ClientCommonPacketListenerImplMixin from mod modernfix
+[20:33:45] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity)
+[20:33:46] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[20:33:46] [main/WARN]: Error loading class: net/minecraft/class_970 (java.lang.ClassNotFoundException: net/minecraft/class_970)
+[20:33:46] [main/WARN]: @Mixin target net.minecraft.class_970 was not found uteamcore.mixins.json:HumanoidArmorLayerMixin from mod uteamcore
+[20:33:46] [main/WARN]: Error loading class: net/minecraft/class_634 (java.lang.ClassNotFoundException: net/minecraft/class_634)
+[20:33:46] [main/WARN]: @Mixin target net.minecraft.class_634 was not found uteamcore.mixins.json:ClientPacketListenerMixin from mod uteamcore
+[20:33:46] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[20:33:46] [main/WARN]: @Mixin target net.minecraft.class_310 was not found uteamcore.mixins.json:MinecraftMixin from mod uteamcore
+[20:33:46] [main/WARN]: Error loading class: net/minecraft/class_309 (java.lang.ClassNotFoundException: net/minecraft/class_309)
+[20:33:46] [main/WARN]: @Mixin target net.minecraft.class_309 was not found uteamcore.mixins.json:KeyboardHandlerMixin from mod uteamcore
+[20:33:46] [main/WARN]: Can't get value of: "fixRecipeBookIngredientsWithTags" defaulting to false
+[20:33:46] [main/WARN]: Not applying "org.dimdev.vanillafix.bugs.mixins.PlayerInventoryMixin" mixin
+[20:33:46] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[20:33:46] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[20:33:46] [main/ERROR]: uteamcore.mixins.json:UContainerMenuScreenMixin from mod uteamcore: Super class 'net.minecraft.class_465' of UContainerMenuScreenMixin was not found in the hierarchy of target class 'info/u_team/u_team_core/screen/UContainerMenuScreen'
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super class 'net.minecraft.class_465' of UContainerMenuScreenMixin was not found in the hierarchy of target class 'info/u_team/u_team_core/screen/UContainerMenuScreen'
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:593) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar:0.15.2+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:327) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar:0.15.2+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.validate(MixinInfo.java:913) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar:0.15.2+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.postInitialise(MixinConfig.java:884) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar:0.15.2+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:568) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar:0.15.2+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar:0.15.2+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar:0.15.2+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar:0.15.2+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar:0.15.2+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar:0.15.2+mixin.0.8.7]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:534) ~[?:?]
+	at java.lang.Class.forName(Class.java:513) ~[?:?]
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:50) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:124) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:399) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:160) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[20:33:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:33:48] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[20:33:48] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[20:33:48] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[20:33:48] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[20:33:48] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[20:33:50] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[20:33:51] [main/INFO]: Vanilla bootstrap took 4333 milliseconds
+[20:33:51] [main/INFO]: Loading Collective version 7.30.
+[20:33:51] [main/INFO]: [CopperHopper] Configuration loaded: {}
+[20:33:51] [main/INFO]: [CopperHopper] Initialized.
+[20:33:52] [main/INFO]: Mod integration succeeded for Clumps
+[20:33:52] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[20:33:52] [ForkJoinPool.commonPool-worker-1/INFO]: [Paladin's Furniture Update Check] Cached update file detected, using that!
+[20:33:52] [ForkJoinPool.commonPool-worker-1/INFO]: [Paladin's Furniture Update Check] New update detected, showing update message!
+[20:33:52] [main/INFO]: [Ping-Wheel] Init
+[20:33:52] [main/WARN]: ================================================
+[20:33:52] [main/WARN]: You are running a beta version of VanillaIcecreamFix!
+[20:33:52] [main/WARN]: VanillaIcecreamFix Version: 1.1.10-beta
+[20:33:52] [main/WARN]: We can not guarantee that this version is compatible
+[20:33:52] [main/WARN]: with all mods. Please report issues to github if found.
+[20:33:52] [main/WARN]: ================================================
+[20:33:52] [main/INFO]: [voicechat] Compatibility version 18
+[20:33:52] [main/INFO]: [voicechat] Loading plugins
+[20:33:52] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[20:33:52] [main/INFO]: [voicechat] Initializing plugins
+[20:33:52] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[20:33:52] [Version Check/INFO]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks_fabric.json
+[20:33:52] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[20:33:52] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
+[20:33:53] [Version Check/INFO]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.123 Target: null
+[20:33:53] [Version Check/INFO]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore_fabric.json
+[20:33:53] [Version Check/INFO]: [uteamcore] Found status: UP_TO_DATE Current: 5.2.0.270 Target: null
+[20:33:53] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20:33:53] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[20:33:53] [main/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:33:53] [main/INFO]: Bypassed Mojang DFU
+[20:33:56] [main/INFO]: Loaded 10 recipes
+[20:33:56] [main/ERROR]: Failed to load function sirlogin:config/kick
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[20:33:56] [main/INFO]: Loaded 2765 advancements
+[20:33:56] [main/INFO]: Loaded 44 chiseling recipes
+[20:33:56] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[20:33:56] [main/INFO]: Applied 64 biome modifications to 64 of 64 new biomes in 9.597 ms
+[20:33:56] [Server thread/INFO]: Starting background profiler...
+[20:33:57] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[20:33:57] [Server thread/INFO]: Loading properties
+[20:33:57] [Server thread/INFO]: Default game type: SURVIVAL
+[20:33:57] [Server thread/INFO]: Generating keypair
+[20:33:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:33:57] [Server thread/INFO]: Using epoll channel type
+[20:33:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:33:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:33:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:33:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:33:57] [Server thread/INFO]: Preparing level "world"
+[20:33:57] [Server thread/INFO]: Done (0.537s)! For help, type "help"
+[20:33:57] [Server thread/INFO]: Paladin's Furniture 1.2.1 has released, for MinecraftForge, NeoForge and Fabric, the mod has been rewritten to improve loading times even further, reduce memory usage, and fixing many crashes. Download it from: Modrinth
+[20:33:57] [Server thread/WARN]: Dedicated server took 14.697 seconds to load
+[20:33:57] [Server thread/INFO]: Start loading plugin from Jade
+[20:33:57] [Server thread/INFO]: Start loading plugin from Jade
+[20:33:57] [Server thread/INFO]: Start loading plugin from Jade
+[20:33:57] [Server thread/INFO]: Start loading plugin from Polymer (Core)
+[20:33:57] [Server thread/INFO]: Start loading plugin from Waystones
+[20:33:57] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20:33:57] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'album-shaft.gl.at.ply.gg'
+[20:33:57] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 1307
+[20:33:57] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20:33:57] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[20:33:57] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[20:34:07] [Server thread/INFO]: Lucas[/127.158.166.58:37271] logged in with entity id 1 at (18.692539310820415, 81.0, 1921.9845235749874)
+[20:34:07] [Server thread/INFO]: Syncing config to Lucas (c7515538-6442-3ead-8b80-f72841202097)
+[20:34:07] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[20:34:08] [Server thread/INFO]: Lucas joined the game
+[20:34:08] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Lucas -> Global
+[20:34:08] [Server thread/INFO]: [voicechat] Received secret request of Lucas (18)
+[20:34:08] [Server thread/INFO]: [voicechat] Sent secret to Lucas
+[20:34:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c7515538-6442-3ead-8b80-f72841202097
+[20:34:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c7515538-6442-3ead-8b80-f72841202097
+[20:34:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lucas (c7515538-6442-3ead-8b80-f72841202097) successfully connected to voice chat
+[20:34:19] [Server thread/INFO]: [Lucas: Triggered [login] (set value to 12009934)]
+[20:34:27] [Server thread/INFO]: Instantiating Mojang DFU
+[20:34:27] [Server thread/WARN]: Lucas moved too quickly! -16.772921210534495,-4.296111545488429,5.305741630925013
+[20:36:03] [Server thread/INFO]: Made Lucas a server operator
+[20:36:12] [Server thread/INFO]: [Lucas: Set own game mode to Creative Mode]
+[20:36:27] [Server thread/INFO]: [Lucas: Set own game mode to Survival Mode]

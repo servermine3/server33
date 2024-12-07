@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"To login use '/trigger login set <password>'","color":"red","bold":false}]

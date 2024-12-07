@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Register with '/trigger register set <password>' ","color":"red","bold":false},{"text":"USE ONLY NUMBERS","color":"dark_red","bold":true}]

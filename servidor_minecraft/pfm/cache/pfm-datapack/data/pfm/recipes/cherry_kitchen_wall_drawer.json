@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherry_kitchen_wall_drawer"
+  },
+  "show_notification": true
+}
